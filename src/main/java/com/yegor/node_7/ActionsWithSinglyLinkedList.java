@@ -1,6 +1,5 @@
 package com.yegor.node_7;
 
-
 /**
  * This class adds elements to a list and returns them in reverse order.
  * Created by YegorKost on 02.02.2017.

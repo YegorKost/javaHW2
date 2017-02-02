@@ -60,6 +60,10 @@ public class SinglyLinkedList<E> implements Iterable<E>{
         }
     }
 
+    /**
+     * This method returns an Iterator. It iterates over the elements from the end of the list.
+     * @return Iterator
+     */
     @Override
     public Iterator<E> iterator() {
         return new Iterator<E>() {
